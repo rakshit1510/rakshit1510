@@ -43,7 +43,7 @@ Hi, I'm **Rakshit Garg** – a passionate and curious learner currently explorin
 ### 📫 Let's Connect
 
 - 💼 LinkedIn: [linkedin.com/in/rakshit-garg]( https://www.linkedin.com/in/rakshit-garg-298348282/)
-
+<!--
 **rakshit1510/rakshit1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
