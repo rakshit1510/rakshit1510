@@ -1,3 +1,7 @@
+![Coding GIF](https://files.catbox.moe/16n4fm.gif)
+
+
+
 ## Hi there 👋
 ## 🔭working  my new project LearnSpark
 ## 🌱currently learning MERN stack and Next JS'
@@ -15,17 +19,18 @@ Hi, I'm **Rakshit Garg** – a passionate and curious learner currently explorin
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" style="margin-right:15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="margin-right:15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" style="margin-right:15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="margin-right:15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" style="margin-right:15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" style="margin-right:15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" style="margin-right:15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" style="margin-right:15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" style="margin-right:15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" style="margin-right:15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" style="margin-right:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="margin-right:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" style="margin-right:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="margin-right:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" style="margin-right:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" style="margin-right:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" style="margin-right:30px;" />
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="50" style="margin-right:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" style="margin-right:30px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" style="margin-right:30px;" />
 </p>
+
 ### 📫 Let's Connect
 
 - 💼 LinkedIn: [linkedin.com/in/rakshit-garg]( https://www.linkedin.com/in/rakshit-garg-298348282/)
